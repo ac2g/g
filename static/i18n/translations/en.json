@@ -1,0 +1,20 @@
+{
+    "csgo.setting.strict_mode": "Strict Mode",
+    "csgo.setting.strict_mode_tooltip": "If there are frequent interruptions, try turning off this switch.",
+    "csgo.setting.infer_location": "Infer Localtion",
+    "csgo.setting.infer_location_tooltip": "The server infers the location based on the comprehensive information, and there may be errors in the inference. If you need to judge by yourself, please turn off this switch.",
+    "csgo.setting.name": "Name",
+    "csgo.setting.dead": "Dead",
+    "csgo.setting.ghost": "Ghost",
+    "csgo.setting.ghost_tooltip": "Show the viewing angle of the dead player. To turn on this switch, you need to turn off the inferred position and turn on the dead player's switch.",
+    "csgo.setting.grenade": "Grenade",
+    "csgo.setting.low_health": "Low Health",
+    "csgo.setting.low_health_tooltip": "If the player's health is lower than the set value, the player icon will be marked with a red border.",
+    "csgo.setting.z_threshold": "Z Threshold",
+    "csgo.setting.z_threshold_tooltip": "If the distance between the opponent's Z axis and you is greater than the set value, a T will be displayed on the icon above you, and an inverted T will be displayed below you.",
+    "csgo.setting.auto_aim_threshold_x": "Auto Aim Threshold X",
+    "csgo.setting.auto_aim_threshold_x_tooltip": "If the lateral difference between the shooting angle of view and the target body is less than the set value, the X angle of view is automatically corrected and the body is aimed. ",
+    "csgo.setting.auto_aim_threshold_y": "Auto Aim Threshold Y",
+    "csgo.setting.auto_aim_threshold_y_tooltip": "If the vertical difference between the shooting angle of view and the target head is less than the set value, the Y angle of view is automatically corrected and the head is aimed. ",
+    "csgo.setting.alpha": "Alpha"
+}
